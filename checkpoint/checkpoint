@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnnLSTM_5d_o3.ckpt"
+all_model_checkpoint_paths: "cnnLSTM_5d_o3.ckpt"
